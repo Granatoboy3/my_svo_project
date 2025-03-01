@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>rpg_calib</name>
+  <version>0.0.1</version>
+  <description>Dummy package for calibration files.</description>
+  <maintainer email="you@example.com">Your Name</maintainer>
+  <license>GPLv3</license>
+</package>
